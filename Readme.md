@@ -2,6 +2,7 @@
 
 * Студент: [{{userName}}]({{userProfile}}).
 * Наставник: `Неизвестно`.
+* Project: [Sedona](https://arsvincere.github.io/htmlacademy-sedona/)
 
 ---
 
