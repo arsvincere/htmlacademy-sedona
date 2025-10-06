@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [Alex Avin]({{userProfile}}).
+* Наставник: HTML-Бог.
 * Project: [Sedona](https://arsvincere.github.io/htmlacademy-sedona/)
 
 ---
